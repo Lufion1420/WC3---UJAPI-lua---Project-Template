@@ -1,0 +1,1 @@
+"D:\Stuff\Warcraft 3 All Assets\Tools\UnryzeApi\UjAPILauncher.exe" -ujapi "dev" -lua "dev console nowarnings" -multiwindow -window -launch "Warcraft" -gamepath "F:\Stuff\Warcraft III 1.27a\war3.exe" -loadfile "F:\Stuff\Warcraft III 1.27a\Maps\NCOW - UJAPI\test2_slk.w3x"
